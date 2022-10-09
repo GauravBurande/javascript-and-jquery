@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(51, 37, 51);
+    color: honeydew;
+    font-family: 'Outfit', sans-serif;
+    display: inline;
+    text-align: center;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+#page>ul>li {
+    color: pink;
+    list-style: none;
+}
