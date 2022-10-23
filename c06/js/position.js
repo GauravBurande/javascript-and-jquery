@@ -16,10 +16,3 @@ function showPosition(Event) {
 
 var el = document.getElementById('body');
 el.addEventListener('mousemove', showPosition, false);
-
-
-
-
-
-
-
